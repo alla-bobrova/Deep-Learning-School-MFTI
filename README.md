@@ -1,1 +1,1 @@
-# Deep-Learning-1-2024-
+# Deep-Learning-School-MFTI
